@@ -1,2 +1,2 @@
-# ModelNet40_preprocess
+# ModelNet40 Preprocess
 ModelNet40 dataset
